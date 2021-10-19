@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**zulkernine/zulkernine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: [![alt text][2.1]][2]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him/They/Them
+
+
+
+
+[![Zulkernine's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulkernine&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/zulkernine/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulkernine&layout=compact&langs_count=10)](https://github.com/zulkernine/github-readme-stats)
+
+
+
+
+<!-- links to social media icons -->
+[2.1]: http://i.imgur.com/P3YfQoD.png
+
+<!-- links to social media accounts -->
+
+[2]: https://www.facebook.com/zulqarnain.mocker.1/
