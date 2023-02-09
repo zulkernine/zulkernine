@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: [![alt text][2.1]][2]
 
-- 😄 Pronouns: He/Him/They/Them
+- 😄 Pronouns: He/Him
 
 
 
